@@ -1,29 +1,41 @@
-﻿using System.Security.Cryptography;
+﻿using PasswordManager.Domain.Interfaces;
+using System.Security.Cryptography;
 using System.Text;
 
-namespace PasswordManager.Domain.Interfaces
+public class AesEncryptionStrategy : IEncryptionStrategy
 {
-    public class AesEncryptionStrategy : IEncryptionStrategy
+    private readonly byte[] _key;
+    private readonly byte[] _iv;
+
+    public AesEncryptionStrategy()
     {
-        private readonly string _key = "MINEAESSecretKey789";
+        _key = Encoding.UTF8.GetBytes("0123456789ABCDEF0123456789ABCDEF"); // Clé de 32 bytes
+        _iv = Encoding.UTF8.GetBytes("0123456789ABCDEF"); // IV de 16 bytes
+    }
 
-        public string Encrypt(string password)
-        {
-            using Aes aesAlg = Aes.Create();
-            aesAlg.Key = Encoding.UTF8.GetBytes(_key);
-            aesAlg.GenerateIV();
+    public string Encrypt(string plainText)
+    {
+        using Aes aes = Aes.Create();
+        aes.Key = _key;
+        aes.IV = _iv;
 
-            using var encryptor = aesAlg.CreateEncryptor(aesAlg.Key, aesAlg.IV);
-            using var msEncrypt = new MemoryStream();
-            using var csEncrypt = new CryptoStream(msEncrypt, encryptor, CryptoStreamMode.Write);
-            using var swEncrypt = new StreamWriter(csEncrypt);
+        using var encryptor = aes.CreateEncryptor();
+        byte[] plainBytes = Encoding.UTF8.GetBytes(plainText);
+        byte[] encryptedBytes = encryptor.TransformFinalBlock(plainBytes, 0, plainBytes.Length);
 
-            swEncrypt.Write(password);
-            swEncrypt.Flush();
-            csEncrypt.FlushFinalBlock();
+        return Convert.ToBase64String(encryptedBytes);
+    }
 
-            byte[] encryptedData = msEncrypt.ToArray();
-            return Convert.ToBase64String(aesAlg.IV.Concat(encryptedData).ToArray());
-        }
+    public string Decrypt(string encryptedText)
+    {
+        using Aes aes = Aes.Create();
+        aes.Key = _key;
+        aes.IV = _iv;
+
+        using var decryptor = aes.CreateDecryptor();
+        byte[] encryptedBytes = Convert.FromBase64String(encryptedText);
+        byte[] decryptedBytes = decryptor.TransformFinalBlock(encryptedBytes, 0, encryptedBytes.Length);
+
+        return Encoding.UTF8.GetString(decryptedBytes);
     }
 }

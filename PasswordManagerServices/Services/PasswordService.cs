@@ -19,12 +19,26 @@ namespace PasswordManager.PasswordManagerServices.Services
 
         public async Task<IEnumerable<Password>> GetAllPasswordsAsync()
         {
-            return await _passwordRepository.GetAllPasswordsAsync();
+            var passwords = await _passwordRepository.GetAllPasswordsAsync();
+
+            foreach (var password in passwords)
+            {
+                var encryptionStrategy = GetEncryptionStrategy(password.Application.Type);
+                password.EncryptedPassword = encryptionStrategy.Decrypt(password.EncryptedPassword);
+            }
+
+            return passwords;
         }
 
         public async Task<Password?> GetPasswordByIdAsync(int id)
         {
-            return await _passwordRepository.GetPasswordByIdAsync(id);
+            var password = await _passwordRepository.GetPasswordByIdAsync(id);
+            if (password != null)
+            {
+                var encryptionStrategy = GetEncryptionStrategy(password.Application.Type);
+                password.EncryptedPassword = encryptionStrategy.Decrypt(password.EncryptedPassword);
+            }
+            return password;
         }
 
         public async Task<Password> AddPasswordAsync(Password password)
@@ -51,6 +65,16 @@ namespace PasswordManager.PasswordManagerServices.Services
         public async Task DeletePasswordAsync(int id)
         {
             await _passwordRepository.DeletePasswordAsync(id);
+        }
+
+        private IEncryptionStrategy GetEncryptionStrategy(string applicationType)
+        {
+            return applicationType switch
+            {
+                "Grand public" => _serviceProvider.GetRequiredService<AesEncryptionStrategy>(),
+                "Professionnelle" => _serviceProvider.GetRequiredService<RsaEncryptionStrategy>(),
+                _ => throw new ArgumentException("Unknown application type.")
+            };
         }
     }
 }
