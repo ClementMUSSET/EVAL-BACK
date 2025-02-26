@@ -1,0 +1,7 @@
+C:\Users\cleme\Desktop\DIIAGE\Cours\Projet_3\Eval Dev\EVAL_BACK\obj\Debug\net8.0\EVAL_BACK.csproj.AssemblyReference.cache
+C:\Users\cleme\Desktop\DIIAGE\Cours\Projet_3\Eval Dev\EVAL_BACK\obj\Debug\net8.0\EVAL_BACK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleme\Desktop\DIIAGE\Cours\Projet_3\Eval Dev\EVAL_BACK\obj\Debug\net8.0\EVAL_BACK.AssemblyInfoInputs.cache
+C:\Users\cleme\Desktop\DIIAGE\Cours\Projet_3\Eval Dev\EVAL_BACK\obj\Debug\net8.0\EVAL_BACK.AssemblyInfo.cs
+C:\Users\cleme\Desktop\DIIAGE\Cours\Projet_3\Eval Dev\EVAL_BACK\obj\Debug\net8.0\EVAL_BACK.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\DIIAGE\Cours\Projet_3\Eval Dev\EVAL_BACK\obj\Debug\net8.0\EVAL_BACK.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cleme\Desktop\DIIAGE\Cours\Projet_3\Eval Dev\EVAL_BACK\obj\Debug\net8.0\EVAL_BACK.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,6 @@
+@EVAL_BACK_HostAddress = http://localhost:5049
+
+GET {{EVAL_BACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
