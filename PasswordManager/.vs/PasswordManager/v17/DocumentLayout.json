@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\domain\\entities\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:domain\\entities\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\api\\controller\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:api\\controller\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\domain\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:domain\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\domain\\entities\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:domain\\entities\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|c:\\users\\cleme\\desktop\\diiage\\cours\\projet_3\\eval dev\\eval-back\\passwordmanager\\passwordmanagerservices\\services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45A114E-3BC6-4908-BE5D-246A964E57F5}|PasswordManager.csproj|solutionrelative:passwordmanagerservices\\services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-26T08:52:47.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:31:10.701Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -91,60 +69,89 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T10:42:14.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:41:31.725Z",
+              "WhenOpened": "2025-02-26T10:34:45.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PasswordEntry.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Domain\\Entities\\PasswordEntry.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\PasswordEntry.cs",
-              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Domain\\Entities\\PasswordEntry.cs",
-              "RelativeToolTip": "Domain\\Entities\\PasswordEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:39:45.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Domain\\Entities\\Application.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Application.cs",
               "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Domain\\Entities\\Application.cs",
               "RelativeToolTip": "Domain\\Entities\\Application.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:39:09.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T10:20:52.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordEntry.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Domain\\Entities\\PasswordEntry.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PasswordEntry.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Domain\\Entities\\PasswordEntry.cs",
+              "RelativeToolTip": "Domain\\Entities\\PasswordEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:20:50.026Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T08:35:47.038Z",
-              "EditorCaption": ""
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:20:26.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\PasswordManagerServices\\Services\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "PasswordManagerServices\\Services\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\PasswordManagerServices\\Services\\IApplicationService.cs",
+              "RelativeToolTip": "PasswordManagerServices\\Services\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:13:31.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\API\\Controller\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "API\\Controller\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\DIIAGE\\Cours\\Projet_3\\Eval Dev\\EVAL-BACK\\PasswordManager\\API\\Controller\\ApplicationController.cs",
+              "RelativeToolTip": "API\\Controller\\ApplicationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:55:15.816Z"
             }
           ]
         }
